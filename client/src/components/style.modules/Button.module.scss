@@ -1,0 +1,15 @@
+.button {
+  background-color: #5fa68c;
+  padding: 4%;
+  border: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: #1DA373;
+  }
+
+  &.big {
+    width: 400px;
+  }
+}

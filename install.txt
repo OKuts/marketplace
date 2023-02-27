@@ -1,0 +1,1 @@
+yarn add stylelint stylelint-config-standard eslint-config-prettier eslint-plugin-prettier prettier @trivago/prettier-plugin-sort-imports lint-staged husky --dev
